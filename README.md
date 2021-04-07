@@ -1,2 +1,3 @@
 # TwitterBot
-My first personal project aimed to understand the Twitter4J API
+My first personal project created simply for learning the *Twitter4J API*.
+[Twitter4J](http://twitter4j.org/en/)
